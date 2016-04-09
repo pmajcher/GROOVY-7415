@@ -1,7 +1,7 @@
 GROOVY-7415
 ===========
 
-Project contains reproduction of groovy bug described [Groovy JIRA](https://issues.apache.org/jira/browse/GROOVY-7415):
+Project contains reproduction of groovy bug described in [Groovy JIRA](https://issues.apache.org/jira/browse/GROOVY-7415):
 
 How to run?
 ===========
